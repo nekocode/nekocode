@@ -4,7 +4,7 @@
 
 I'm Mark Yang, a full-stack engineer and specialize in frontend (android/flutter/web) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
 
-<img align="right" alt="wired cat" src="img/avatar.gif" height="200" />
+<img align="right" alt="wired cat" src="img/avatar.gif" height="180" />
 
 🎏 Personal website: [nekocode.cn](https://nekocode.cn)
 
