@@ -6,9 +6,11 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (android/flutter
 
 <img align="right" alt="wired cat" src="img/avatar.gif" height="180" />
 
-🎏 Personal website: [nekocode.cn](https://nekocode.cn)
+Personal website: [nekocode.cn](https://nekocode.cn)
 
-🌅 Repository gallery: [nekocode.github.io/neko-gallery](https://nekocode.github.io/neko-gallery/)
+[My Repositories](https://nekocode.github.io/neko-gallery/) | [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Anekocode+archived%3Afalse+is%3Amerged+-user%3Anekocode)
+
+
 
 Proficient in:
 
