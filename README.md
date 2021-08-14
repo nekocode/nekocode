@@ -8,7 +8,7 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (android/flutter
 
 Personal website: [nekocode.cn](https://nekocode.cn)
 
-[My Repositories](https://nekocode.github.io/neko-gallery/) | [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Anekocode+archived%3Afalse+is%3Amerged+-user%3Anekocode)
+[Repository Gallery](https://nekocode.github.io/neko-gallery/) | [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Anekocode+archived%3Afalse+is%3Amerged+-user%3Anekocode) | [Zhihu](https://www.zhihu.com/people/nekocode)
 
 
 
