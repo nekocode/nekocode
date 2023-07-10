@@ -1,8 +1,8 @@
 ## Hi ㊎㊍㊌㊋㊏
 
-![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=nekocode&show_icons=true&theme=dracula)
+![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=nekocode&show_icons=true&theme=dracula&hide_rank=true)
 
-I'm Mark Yang, a full-stack engineer and specialize in frontend (android/flutter/web) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
+I'm Mark Yang, a full-stack engineer and specialize in frontend (web/flutter/android) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
 
 <img align="right" alt="wired cat" src="img/avatar.gif" height="180" />
 
@@ -14,7 +14,8 @@ Personal website: [nekocode.cn](https://nekocode.cn)
 
 Proficient in:
 
-- Java, Kotlin, Dart, TypeScript programming language
-- Android application development and optimization, Gradle plugin development
+- TypeScript, Dart, Java, Kotlin programming language
+- Web application development practices with React, Next.js
 - Flutter application development
-- Web application practices with React, Svelte
+- Android application development, Gradle plugin development
+
