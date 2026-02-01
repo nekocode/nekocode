@@ -1,8 +1,8 @@
 ## Hi 👋
 
-![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=nekocode&show_icons=true&theme=dracula&hide_rank=true) <img align="right" alt="wired cat" src="img/avatar.gif" width="200" height="200" />
+<img align="right" alt="wired cat" src="img/avatar.gif" width="200" height="200" />
 
-I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Fluter) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
+I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flutter) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
 
 Websites: [nekocode.cn](https://www.nekocode.cn/) | [agilebyte.cc](https://www.agilebyte.cc/) | [emu666.com](https://www.emu666.com/)
 
@@ -10,3 +10,13 @@ Websites: [nekocode.cn](https://www.nekocode.cn/) | [agilebyte.cc](https://www.a
 
 [Zhihu](https://www.zhihu.com/people/nekocode) | [WeChat Official Account](https://mp.weixin.qq.com/s/3581GVy6VUdsXIGZ6IQLlw) | [Resume](https://nekocode.cn/resume)
 
+### Vibe Coding 2026
+
+🎯 **Goal:** Ship 50+ products/tools this year
+
+**Progress:** 2/50 █░░░░░░░░░ 4%
+
+| # | Project | Description |
+|---|---------|-------------|
+| 2 | [x-screenshot](https://github.com/nekocode/x-screenshot) | Chrome extension for capturing X posts with custom styles |
+| 1 | [agent-codemap](https://github.com/nekocode/agent-codemap) | AI-friendly source code index generator |
