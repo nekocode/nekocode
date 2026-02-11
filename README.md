@@ -14,7 +14,7 @@ Websites: [nekocode.cn](https://www.nekocode.cn/) | [agilebyte.cc](https://www.a
 
 🎯 **Goal:** Ship 50+ products/tools this year
 
-**Progress:** 3/50 █░░░░░░░░░ 6%
+**Progress:** 4/50 █░░░░░░░░░ 8%
 
 | # | Project | Description |
 |---|---------|-------------|
