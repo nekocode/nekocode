@@ -18,6 +18,7 @@ Websites: [nekocode.cn](https://www.nekocode.cn/) | [agilebyte.cc](https://www.a
 
 | # | Project | Description |
 |---|---------|-------------|
+| 4 | [agent-team](https://github.com/nekocode/agent-team) | A multi-agent CLI orchestrator via the Agent Client Protocol |
 | 3 | [agent-worktree](https://github.com/nekocode/agent-worktree) | A Git worktree workflow tool for AI coding agents |
 | 2 | [x-screenshot](https://github.com/nekocode/x-screenshot) | Chrome extension for capturing X posts with custom styles |
 | 1 | [agent-codemap](https://github.com/nekocode/agent-codemap) | AI-friendly source code index generator |
