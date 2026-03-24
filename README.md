@@ -14,10 +14,11 @@ Websites: [nekocode.cn](https://www.nekocode.cn/) | [agilebyte.cc](https://www.a
 
 🎯 **Goal:** Ship 50+ products/tools this year
 
-**Progress:** 4/50 █░░░░░░░░░ 8%
+**Progress:** 5/50 █░░░░░░░░░ 10%
 
 | # | Project | Description |
 |---|---------|-------------|
+| 5 | [SeqLog](https://seqlog.com/) | A native Logseq for macOS |
 | 4 | [agent-team](https://github.com/nekocode/agent-team) | A multi-agent CLI orchestrator via the Agent Client Protocol |
 | 3 | [agent-worktree](https://github.com/nekocode/agent-worktree) | A Git worktree workflow tool for AI coding agents |
 | 2 | [x-screenshot](https://github.com/nekocode/x-screenshot) | Chrome extension for capturing X posts with custom styles |
