@@ -10,10 +10,11 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flu
 
 🎯 **Goal:** Ship 50+ products/tools this year
 
-**Progress:** 5/50 █░░░░░░░░░ 10%
+**Progress:** 6/50 █░░░░░░░░░ 12%
 
 | # | Project | Description |
 |---|---------|-------------|
+| 6 | [skill-forge](https://nekocode.github.io/skill-forge/) | The meta-skill that forges skills |
 | 5 | [SeqLog](https://seqlog.com/) | A native Logseq for macOS |
 | 4 | [agent-team](https://github.com/nekocode/agent-team) | A multi-agent CLI orchestrator via the Agent Client Protocol |
 | 3 | [agent-worktree](https://github.com/nekocode/agent-worktree) | A Git worktree workflow tool for AI coding agents |
