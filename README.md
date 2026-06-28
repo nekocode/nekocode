@@ -4,7 +4,7 @@
 
 I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flutter) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
 
-[Blog [nekocode.cn] ⭐️](https://nekocode.cn) | [Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Anekocode+archived%3Afalse+is%3Amerged+-user%3Anekocode) | [Emu666](https://www.emu666.com/)
+[Blog [nekocode.cn] ⭐️](https://nekocode.cn) | [Merged PRs](https://nekocode.cn/github/pulls/) | [Emu666](https://www.emu666.com/)
 
 ### Vibe Coding 2026
 
