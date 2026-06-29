@@ -1,6 +1,6 @@
 ## Hi 👋
 
-![Nekocode's github stats](https://github-readme-stats.vercel.app/api?username=nekocode&show_icons=true&theme=dracula&hide_rank=true) <img align="right" alt="wired cat" src="img/avatar.gif" width="200" height="200" />
+<img align="right" alt="wired cat" src="img/avatar.gif" width="200" height="200" />
 
 I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flutter) development. I’m also an open source enthusiast and have contributed dozens of projects to the community.
 
