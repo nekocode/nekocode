@@ -10,10 +10,11 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flu
 
 🎯 **Goal:** Ship 50+ products/tools this year
 
-**Progress:** 7/50 █░░░░░░░░░ 14%
+**Progress:** 8/50 █░░░░░░░░░ 16%
 
 | # | Project | Description |
 |---|---------|-------------|
+| 8 | [prompt-to-code-skill](https://github.com/nekocode/prompt-to-code-skill) | Compile rules and chat corrections into lint/hook/pre-commit enforcement |
 | 7 | [filetree-skill](https://github.com/nekocode/filetree-skill) | A Claude Code plugin that maintains `FILETREE.md` |
 | 6 | [skill-forge](https://github.com/nekocode/skill-forge) | The meta-skill that forges skills |
 | 5 | [SeqLog](https://seqlog.com/) | A native Logseq for macOS |
