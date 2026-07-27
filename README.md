@@ -10,7 +10,7 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flu
 
 🎯 **Goal:** Ship 50+ products/tools this year
 
-**Progress:** 8/50 █░░░░░░░░░ 16%
+**Progress:** 9/50 ██░░░░░░░░ 18%
 
 | # | Project | Description |
 |---|---------|-------------|
