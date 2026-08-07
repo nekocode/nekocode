@@ -14,12 +14,12 @@ I'm Mark Yang, a full-stack engineer and specialize in frontend (Web/Android/Flu
 
 | # | Project | Description |
 |---|---------|-------------|
-| 9 | [chatpony](https://github.com/nekocode/chatpony) | Customer support that lives on the edge |
+| 9 | [chatpony](https://github.com/nekocode/chatpony) ⭐️ | Customer support that lives on the edge |
 | 8 | [prompt-to-code-skill](https://github.com/nekocode/prompt-to-code-skill) | Compile rules and chat corrections into lint/hook/pre-commit enforcement |
 | 7 | [filetree-skill](https://github.com/nekocode/filetree-skill) | A Claude Code plugin that maintains `FILETREE.md` |
 | 6 | [skill-forge](https://github.com/nekocode/skill-forge) | The meta-skill that forges skills |
-| 5 | [SeqLog](https://seqlog.com/) | A native Logseq for macOS |
+| 5 | [SeqLog](https://seqlog.com/) ⭐️ | A native Logseq for macOS |
 | 4 | [agent-team](https://github.com/nekocode/agent-team) | A multi-agent CLI orchestrator via the Agent Client Protocol |
-| 3 | [agent-worktree](https://github.com/nekocode/agent-worktree) | A Git worktree workflow tool for AI coding agents |
+| 3 | [agent-worktree](https://github.com/nekocode/agent-worktree) ⭐️ | A Git worktree workflow tool for AI coding agents |
 | 2 | [x-screenshot](https://github.com/nekocode/x-screenshot) | Chrome extension for capturing X posts with custom styles |
 | 1 | [agent-codemap](https://github.com/nekocode/agent-codemap) | AI-friendly source code index generator |
